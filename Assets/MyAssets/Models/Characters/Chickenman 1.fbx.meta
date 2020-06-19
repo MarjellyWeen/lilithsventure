@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 01695f4b1dcdfa54385ddfd8db0ae68a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BeakBase
+    100002: //RootNode
+    100004: Comb1
+    100006: Comb1Nub
+    100008: Comb2
+    100010: Comb2Nub
+    100012: Comb3
+    100014: Comb3Nub
+    100016: Head
+    100018: Hip
+    100020: L_Clavicle
+    100022: L_Eye
+    100024: L_EyeBase
+    100026: L_EyeNub
+    100028: L_Foot
+    100030: L_Hand
+    100032: L_HandNub
+    100034: L_Heel
+    100036: L_HeelToe
+    100038: L_HeelToeNub
+    100040: L_InnerFoot
+    100042: L_InnerToe1
+    100044: L_InnerToe2
+    100046: L_InnerToeNub
+    100048: L_KneeIK
+    100050: L_LegChain
+    100052: L_LowerArm
+    100054: L_LowerLeg
+    100056: L_LowerLegNub
+    100058: L_MiddleToe1
+    100060: L_MiddleToe2
+    100062: L_MiddleToeNub
+    100064: L_OuterFoot
+    100066: L_OuterToe1
+    100068: L_OuterToe2
+    100070: L_OuterToeNub
+    100072: L_UpperArm
+    100074: L_UpperLeg
+    100076: L_Waddle
+    100078: L_WaddleNub
+    100080: LowerBeak2
+    100082: LowerBeakBase
+    100084: LowerBeakNub
+    100086: MasterSwivel
+    100088: Mesh
+    100090: Neck
+    100092: R_Clavicle
+    100094: R_Eye
+    100096: R_EyeBase
+    100098: R_EyeNub
+    100100: R_Foot
+    100102: R_Hand
+    100104: R_HandNub
+    100106: R_Heel
+    100108: R_HeelToe
+    100110: R_HeelToeNub
+    100112: R_InnerFoot
+    100114: R_InnerToe1
+    100116: R_InnerToe2
+    100118: R_InnerToeNub
+    100120: R_KneeIK
+    100122: R_LegChain
+    100124: R_LowerArm
+    100126: R_LowerLeg
+    100128: R_LowerLegNub
+    100130: R_MiddleToe1
+    100132: R_MiddleToe2
+    100134: R_MiddleToeNub
+    100136: R_OuterFoot
+    100138: R_OuterToe1
+    100140: R_OuterToe2
+    100142: R_OuterToeNub
+    100144: R_UpperArm
+    100146: R_UpperLeg
+    100148: R_Waddle
+    100150: R_WaddleNub
+    100152: Spine1
+    100154: Spine2
+    100156: Spine3
+    100158: Spine4
+    100160: TailBase
+    100162: TailEnd
+    100164: TailNub
+    100166: UperBeakBase
+    100168: UpperBeak
+    100170: UpperBeakNub
+    400000: BeakBase
+    400002: //RootNode
+    400004: Comb1
+    400006: Comb1Nub
+    400008: Comb2
+    400010: Comb2Nub
+    400012: Comb3
+    400014: Comb3Nub
+    400016: Head
+    400018: Hip
+    400020: L_Clavicle
+    400022: L_Eye
+    400024: L_EyeBase
+    400026: L_EyeNub
+    400028: L_Foot
+    400030: L_Hand
+    400032: L_HandNub
+    400034: L_Heel
+    400036: L_HeelToe
+    400038: L_HeelToeNub
+    400040: L_InnerFoot
+    400042: L_InnerToe1
+    400044: L_InnerToe2
+    400046: L_InnerToeNub
+    400048: L_KneeIK
+    400050: L_LegChain
+    400052: L_LowerArm
+    400054: L_LowerLeg
+    400056: L_LowerLegNub
+    400058: L_MiddleToe1
+    400060: L_MiddleToe2
+    400062: L_MiddleToeNub
+    400064: L_OuterFoot
+    400066: L_OuterToe1
+    400068: L_OuterToe2
+    400070: L_OuterToeNub
+    400072: L_UpperArm
+    400074: L_UpperLeg
+    400076: L_Waddle
+    400078: L_WaddleNub
+    400080: LowerBeak2
+    400082: LowerBeakBase
+    400084: LowerBeakNub
+    400086: MasterSwivel
+    400088: Mesh
+    400090: Neck
+    400092: R_Clavicle
+    400094: R_Eye
+    400096: R_EyeBase
+    400098: R_EyeNub
+    400100: R_Foot
+    400102: R_Hand
+    400104: R_HandNub
+    400106: R_Heel
+    400108: R_HeelToe
+    400110: R_HeelToeNub
+    400112: R_InnerFoot
+    400114: R_InnerToe1
+    400116: R_InnerToe2
+    400118: R_InnerToeNub
+    400120: R_KneeIK
+    400122: R_LegChain
+    400124: R_LowerArm
+    400126: R_LowerLeg
+    400128: R_LowerLegNub
+    400130: R_MiddleToe1
+    400132: R_MiddleToe2
+    400134: R_MiddleToeNub
+    400136: R_OuterFoot
+    400138: R_OuterToe1
+    400140: R_OuterToe2
+    400142: R_OuterToeNub
+    400144: R_UpperArm
+    400146: R_UpperLeg
+    400148: R_Waddle
+    400150: R_WaddleNub
+    400152: Spine1
+    400154: Spine2
+    400156: Spine3
+    400158: Spine4
+    400160: TailBase
+    400162: TailEnd
+    400164: TailNub
+    400166: UperBeakBase
+    400168: UpperBeak
+    400170: UpperBeakNub
+    2100000: 01 - Default
+    4300000: Mesh
+    7400000: Walking
+    7400002: Talking
+    7400004: Idle
+    9500000: //RootNode
+    13700000: Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 560dc6b7404b9a34eb10e769683d21cd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walking
+      takeName: full
+      firstFrame: 5
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5126721
+        functionName: Step
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.0008170232
+        functionName: Step
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Talking
+      takeName: full
+      firstFrame: 55
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: full
+      firstFrame: 150
+      lastFrame: 305
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

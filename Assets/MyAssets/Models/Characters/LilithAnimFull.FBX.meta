@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 321439f50a8ad57459543c06d4fd4732
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Head
+    100002: HeadNub
+    100004: HipBone
+    100006: L_Breast
+    100008: L_BreastNub
+    100010: L_Clavicle
+    100012: L_Foot
+    100014: L_Handpalm
+    100016: L_IK Chain001 Leg
+    100018: L_IndexFinger1
+    100020: L_IndexFinger2
+    100022: L_IndexNub
+    100024: L_KneePoint
+    100026: L_LowerArm
+    100028: L_LowerLeg
+    100030: L_LowerLegNub
+    100032: L_MiddleFinger1
+    100034: L_MiddleFinger2
+    100036: L_MiddleFingerNub
+    100038: L_Pinky1
+    100040: L_Pinky2
+    100042: L_PinkyNub
+    100044: L_Thumb1
+    100046: L_Thumb2
+    100048: L_ThumbNub
+    100050: L_ToeNub
+    100052: L_Toes
+    100054: L_UpperArm
+    100056: L_UpperLeg
+    100058: Lilith
+    100060: //RootNode
+    100062: MasterSwivel
+    100064: Neck
+    100066: R_Breast
+    100068: R_BreastNub
+    100070: R_Clavicle
+    100072: R_Foot
+    100074: R_Handpalm
+    100076: R_IK Chain001 Leg
+    100078: R_IndexFinger1
+    100080: R_IndexFinger2
+    100082: R_IndexNub
+    100084: R_KneePoint
+    100086: R_LowerArm
+    100088: R_LowerLeg
+    100090: R_LowerLegNub
+    100092: R_MiddleFinger1
+    100094: R_MiddleFinger2
+    100096: R_MiddleFingerNub
+    100098: R_Pinky1
+    100100: R_Pinky2
+    100102: R_PinkyNub
+    100104: R_Thumb1
+    100106: R_Thumb2
+    100108: R_ThumbNub
+    100110: R_ToeNub
+    100112: R_Toes
+    100114: R_UpperArm
+    100116: R_UpperLeg
+    100118: Spine1
+    100120: Spine2
+    100122: Spine3
+    100124: Spine4
+    400000: Head
+    400002: HeadNub
+    400004: HipBone
+    400006: L_Breast
+    400008: L_BreastNub
+    400010: L_Clavicle
+    400012: L_Foot
+    400014: L_Handpalm
+    400016: L_IK Chain001 Leg
+    400018: L_IndexFinger1
+    400020: L_IndexFinger2
+    400022: L_IndexNub
+    400024: L_KneePoint
+    400026: L_LowerArm
+    400028: L_LowerLeg
+    400030: L_LowerLegNub
+    400032: L_MiddleFinger1
+    400034: L_MiddleFinger2
+    400036: L_MiddleFingerNub
+    400038: L_Pinky1
+    400040: L_Pinky2
+    400042: L_PinkyNub
+    400044: L_Thumb1
+    400046: L_Thumb2
+    400048: L_ThumbNub
+    400050: L_ToeNub
+    400052: L_Toes
+    400054: L_UpperArm
+    400056: L_UpperLeg
+    400058: Lilith
+    400060: //RootNode
+    400062: MasterSwivel
+    400064: Neck
+    400066: R_Breast
+    400068: R_BreastNub
+    400070: R_Clavicle
+    400072: R_Foot
+    400074: R_Handpalm
+    400076: R_IK Chain001 Leg
+    400078: R_IndexFinger1
+    400080: R_IndexFinger2
+    400082: R_IndexNub
+    400084: R_KneePoint
+    400086: R_LowerArm
+    400088: R_LowerLeg
+    400090: R_LowerLegNub
+    400092: R_MiddleFinger1
+    400094: R_MiddleFinger2
+    400096: R_MiddleFingerNub
+    400098: R_Pinky1
+    400100: R_Pinky2
+    400102: R_PinkyNub
+    400104: R_Thumb1
+    400106: R_Thumb2
+    400108: R_ThumbNub
+    400110: R_ToeNub
+    400112: R_Toes
+    400114: R_UpperArm
+    400116: R_UpperLeg
+    400118: Spine1
+    400120: Spine2
+    400122: Spine3
+    400124: Spine4
+    2100000: 03 - Default
+    4300000: Lilith
+    7400000: Walking
+    7400002: Idle
+    7400004: GrabItem
+    7400006: GrabShifter
+    9500000: //RootNode
+    13700000: Lilith
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: b34f387df6d87174c9e6aaf9ad4e59ed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walking
+      takeName: full
+      firstFrame: 5
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.75130886
+        functionName: Step
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.25130892
+        functionName: Step
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: full
+      firstFrame: 65
+      lastFrame: 145
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GrabItem
+      takeName: full
+      firstFrame: 165
+      lastFrame: 225
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GrabShifter
+      takeName: full
+      firstFrame: 245
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
